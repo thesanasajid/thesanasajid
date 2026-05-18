@@ -2,7 +2,7 @@
 <h1 align= "center">
     <img src= https://readme-typing-svg.herokuapp.com/?font=Baloo+2&weight=700&size=38&pause=1000&color=231BF7&width=435&lines=I'm+Sana+Sajid%2C+a+nutritionist!)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm Sana Sajid</h1>
+
 <h3 align="center">Food is medicine, and I'm here to make it smarter. A nutritionist bridging the gap between human health and technology, building AI tools that turn nutrition science into something personal, precise, and powerful</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesanasajid&label=Profile%20views&color=0e75b6&style=flat" alt="thesanasajid" /> </p>
