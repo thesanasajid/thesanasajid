@@ -1,4 +1,4 @@
-<img src= "[https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif](https://camo.githubusercontent.com/37f3b91a48cf604958dbae0e6cd34c52ac309cd444000a2361abb36df5369148/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f32362f63372f65373236633734616330383165656435306665656531343333643132633939382e676966)" height="350" width= "1080" frameborder="e" scrolling="no" >
+<img src= " https://camo.githubusercontent.com/37f3b91a48cf604958dbae0e6cd34c52ac309cd444000a2361abb36df5369148/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f32362f63372f65373236633734616330383165656435306665656531343333643132633939382e676966" height="350" width= "1080" frameborder="e" scrolling="no" >
 
 <h1 align="center">Hi 👋, I'm Sana Sajid</h1>
 <h3 align="center">Food is medicine, and I'm here to make it smarter. A nutritionist bridging the gap between human health and technology, building AI tools that turn nutrition science into something personal, precise, and powerful</h3>
