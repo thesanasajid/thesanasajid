@@ -1,7 +1,6 @@
-<img-src= "https://readme-typing-svg.herokuapp.com/demo/?font=Baloo+2&weight=800&size=33&lines=Hi+there!+%F0%9F%91%8B;I'm+Sana+Sajid%2C+a+nutritionist!;" />
-
 <img src=  "https://camo.githubusercontent.com/37f3b91a48cf604958dbae0e6cd34c52ac309cd444000a2361abb36df5369148/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f32362f63372f65373236633734616330383165656435306665656531343333643132633939382e676966" frameborder="0" scrolling="no" >
 <h1 align="center" >
+ <img src= "https://readme-typing-svg.herokuapp.com/demo/?font=Baloo+2&weight=800&size=33&lines=Hi+there!+%F0%9F%91%8B;I'm+Sana+Sajid%2C+a+nutritionist!;" />
 
 </h1>
 
