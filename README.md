@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sana Sajid</h1>
 img src= "https://encrypted-tbn0.gstatic.com/images" height="35" width="1080" frameborder="0" scrolling="no" >
 
-
+<h1 align="center">Hi 👋, I'm Sana Sajid</h1>
 <h3 align="center">Food is medicine, and I'm here to make it smarter. A nutritionist bridging the gap between human health and technology, building AI tools that turn nutrition science into something personal, precise, and powerful</h3>
 
 - 🔭 I’m currently working on [tre-alzheimers-biomarkers](https://github.com/thesanasajid/tre-alzheimers-biomarkers)
