@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I can look at a plate of food and roughly estimate its macros in my head, an occupational hazard of being a nutritionist!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: sana.sajid547@gmail.com </h3>
 <p align="left">
 </p>
 
