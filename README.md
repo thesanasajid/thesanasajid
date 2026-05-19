@@ -1,12 +1,26 @@
-## Hi there 👋
-Welcome to my profile
+<h1 align="center">Hi 👋, I'm Sana Sajid</h1>
+<h3 align="center">Food is medicine, and I'm here to make it smarter. A nutritionist bridging the gap between human health and technology, building AI tools that turn nutrition science into something personal, precise, and powerful</h3>
 
+- 🔭 I’m currently working on [tre-alzheimers-biomarkers](https://github.com/thesanasajid/tre-alzheimers-biomarkers)
 
+- 🌱 I’m currently learning **Machine Learning, Python for healthcare AI, 3D diet modelling frameworks**
 
-- 🔭 I'm currently working on nutritional and healthcare AI to make evidence-based eating more accessible.
-- 🌱 I'm currently learning the latest technologies to integrate AI into the field of nutrition — from smart meal planning to 3D diet modelling.
-- 👯 I'm looking to collaborate on projects at the crossroads of health, data, and technology.
-- 💬 Ask me about nutrition, personalised diet plans, nutrition counselling, and 3D diet modelling.
-- 📫 How to reach me: sana.sajid547@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I can look at a plate of food and roughly estimate its macros in my head — occupational hazard of being a nutritionist!
+- 👯 I’m looking to collaborate on **AI-powered nutrition & healthcare tools**
+
+- 👨‍💻 All of my projects are available at [https://github.com/thesanasajid](https://github.com/thesanasajid)
+
+- 💬 Ask me about **Nutrition, personalized diet plans, nutrition counselling.**
+
+- 📫 How to reach me **sana.sajid547@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/the-sana-sajid/](https://www.linkedin.com/in/the-sana-sajid/)
+
+- ⚡ Fun fact **I can look at a plate of food and roughly estimate its macros in my head, an occupational hazard of being a nutritionist!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
