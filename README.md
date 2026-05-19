@@ -1,4 +1,4 @@
-img src=  "https://user-images.githubusercontent.com/63107268/235033377-31b23c1d-04b6-42bf-865a-6b6bda4f77ae.gif" height="35" width="1080" frameborder="0" scrolling="no" >
+<img src=  "https://user-images.githubusercontent.com/63107268/235033377-31b23c1d-04b6-42bf-865a-6b6bda4f77ae.gif" height="35" width="1080" frameborder="0" scrolling="no" >
 
 <h1 align="center">Hi 👋, I'm Sana Sajid</h1>
 <h3 align="center">Food is medicine, and I'm here to make it smarter. A nutritionist bridging the gap between human health and technology, building AI tools that turn nutrition science into something personal, precise, and powerful</h3>
