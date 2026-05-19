@@ -2,7 +2,7 @@
 
 <h1 align="center" >
     <img-src= "https://readme-typing-svg.herokuapp.com/demo/?font=Baloo+2&weight=800&size=33&lines=Hi+there!+%F0%9F%91%8B;I'm+Sana+Sajid%2C+a+nutritionist!"
-<h1
+</h1>
 <h3 align="center">Food is medicine, and I'm here to make it smarter. A nutritionist bridging the gap between human health and technology, building AI tools that turn nutrition science into something personal, precise, and powerful</h3>
 
 - 🔭 I’m currently working on [tre-alzheimers-biomarkers](https://github.com/thesanasajid/tre-alzheimers-biomarkers)
